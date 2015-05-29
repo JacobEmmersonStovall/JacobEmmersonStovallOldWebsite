@@ -51,6 +51,15 @@ header > ul > li > a:hover{
   color: #bababa;
 }
 
+header > h1 > a{
+  text-decoration: none;
+  color: white;
+}
+
+header > h1 > a:hover{
+  color: #bababa;
+}
+
 .projectItem > h3 > a{
   text-decoration: none;
   color: blue;
