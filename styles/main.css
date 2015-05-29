@@ -42,13 +42,22 @@ h1,h3,h5{
   padding-bottom: 10px;
 }
 
-a{
+header > ul > li > a{
   text-decoration: none;
   color: white;
 }
 
-a:hover{
+header > ul > li > a:hover{
   color: #bababa;
+}
+
+.projectItem > h3 > a{
+  text-decoration: none;
+  color: blue;
+}
+
+.projectItem > h3 > a:hover{
+  color: darkblue;
 }
 
 header{
